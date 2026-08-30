@@ -4,7 +4,7 @@ Unity/C# game developer from Ankara. I studied Computer Engineering at Gazi Univ
 
 I like puzzle and narrative-driven games, small teams, and shipping things that people can actually play.
 
-[Portfolio](https://chibielif-portfolio.vercel.app/) · [itch.io](https://chibielif.itch.io) · [LinkedIn]([https://www.linkedin.com/in/elifkilic35/])
+[Portfolio](https://chibielif-portfolio.vercel.app/) · [itch.io](https://chibielif.itch.io) · [LinkedIn](https://www.linkedin.com/in/elifkilic35/)
 
 ## Featured projects
 
