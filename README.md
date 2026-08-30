@@ -15,7 +15,7 @@ An AI-powered detective game. A fine-tuned Mistral-7B (LoRA, 4-bit) served throu
 **[Red String of Fate](https://github.com/chibielif/Red-String-of-Fate)**
 2D top-down maze puzzle built solo for Mağara Jam 2025, inspired by the red string of fate myth, with a tangram mini-game. Unity/C#.
 
-**[3 Floors of Limbo](https://github.com/kub-k/GGJ-2026)**
+**[Three Floors of Limbo](https://github.com/kub-k/GGJ-2026)**
 2D pixel-art platformer made in 48 hours for Global Game Jam 2026 (theme: Mask), in a two-person team. I built the player controller, game session and timer system, level transitions, moving platforms and audio. Unity/C#.
 
 **[KawaiiAPI](https://github.com/chibielif/KawaiiAPI)**
