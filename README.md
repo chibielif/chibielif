@@ -18,10 +18,10 @@ An AI-powered detective game. A fine-tuned Mistral-7B (LoRA, 4-bit) served throu
 **[Three Floors of Limbo](https://github.com/kub-k/GGJ-2026)**
 2D pixel-art platformer made in 48 hours for Global Game Jam 2026 (theme: Mask), in a two-person team. I built the player controller, game session and timer system, level transitions, moving platforms and audio. Unity/C#.
 
+## School projects
+
 **[KawaiiAPI](https://github.com/chibielif/KawaiiAPI)**
 REST API for managing anime series and characters. Spring Boot + PostgreSQL. Two-person course project.
-
-## School projects
 
 **[Path of Yiğit](https://github.com/CodeTristan/GameDev-Ders-Proje)**
 2D single-player puzzle game inspired by Turkish mythology. Team of three. Unity/C#.
