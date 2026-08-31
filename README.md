@@ -21,6 +21,8 @@ An AI-powered detective game. A fine-tuned Mistral-7B (LoRA, 4-bit) served throu
 **[KawaiiAPI](https://github.com/chibielif/KawaiiAPI)**
 REST API for managing anime series and characters. Spring Boot + PostgreSQL. Two-person course project.
 
+## School projects
+
 **[Path of Yiğit](https://github.com/CodeTristan/GameDev-Ders-Proje)**
 2D single-player puzzle game inspired by Turkish mythology. Team of three. Unity/C#.
 
