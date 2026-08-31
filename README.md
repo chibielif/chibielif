@@ -2,7 +2,7 @@
 
 Unity/C# game developer from Ankara. I studied Computer Engineering at Gazi University and spent most of it making games: jam entries, course projects, and a graduation project that puts a fine-tuned language model inside a detective game.
 
-I like puzzle and narrative-driven games, small teams, and shipping things that people can actually play.
+I like puzzle and narrative-driven games that captivates people's curiosities.
 
 [Portfolio](https://chibielif-portfolio.vercel.app/) · [itch.io](https://chibielif.itch.io) · [LinkedIn](https://www.linkedin.com/in/elifkilic35/)
 
@@ -18,10 +18,10 @@ An AI-powered detective game. A fine-tuned Mistral-7B (LoRA, 4-bit) served throu
 **[Three Floors of Limbo](https://github.com/kub-k/GGJ-2026)**
 2D pixel-art platformer made in 48 hours for Global Game Jam 2026 (theme: Mask), in a two-person team. I built the player controller, game session and timer system, level transitions, moving platforms and audio. Unity/C#.
 
-## School projects
-
 **[KawaiiAPI](https://github.com/chibielif/KawaiiAPI)**
 REST API for managing anime series and characters. Spring Boot + PostgreSQL. Two-person course project.
+
+## More games
 
 **[Path of Yiğit](https://github.com/CodeTristan/GameDev-Ders-Proje)**
 2D single-player puzzle game inspired by Turkish mythology. Team of three. Unity/C#.
